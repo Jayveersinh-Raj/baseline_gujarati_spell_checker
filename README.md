@@ -10,4 +10,4 @@ Baseline trial and conclusion of the gujarati spell checker based on Norvig's so
 # About the data
 - Wikipedia articles 
 - Kaggle news headlines
-
+- Preprocessed these datas to create the corpus
